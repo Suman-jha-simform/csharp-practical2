@@ -1,0 +1,15 @@
+C:\Users\suman\Desktop\internship\CSHARP\Practical 2 - CustomerAccount\Practical 2 - CustomerAccount\bin\Debug\net6.0\Practical 2 - CustomerAccount.exe
+C:\Users\suman\Desktop\internship\CSHARP\Practical 2 - CustomerAccount\Practical 2 - CustomerAccount\bin\Debug\net6.0\Practical 2 - CustomerAccount.deps.json
+C:\Users\suman\Desktop\internship\CSHARP\Practical 2 - CustomerAccount\Practical 2 - CustomerAccount\bin\Debug\net6.0\Practical 2 - CustomerAccount.runtimeconfig.json
+C:\Users\suman\Desktop\internship\CSHARP\Practical 2 - CustomerAccount\Practical 2 - CustomerAccount\bin\Debug\net6.0\Practical 2 - CustomerAccount.dll
+C:\Users\suman\Desktop\internship\CSHARP\Practical 2 - CustomerAccount\Practical 2 - CustomerAccount\bin\Debug\net6.0\Practical 2 - CustomerAccount.pdb
+C:\Users\suman\Desktop\internship\CSHARP\Practical 2 - CustomerAccount\Practical 2 - CustomerAccount\obj\Debug\net6.0\Practical 2 - CustomerAccount.csproj.AssemblyReference.cache
+C:\Users\suman\Desktop\internship\CSHARP\Practical 2 - CustomerAccount\Practical 2 - CustomerAccount\obj\Debug\net6.0\Practical 2 - CustomerAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suman\Desktop\internship\CSHARP\Practical 2 - CustomerAccount\Practical 2 - CustomerAccount\obj\Debug\net6.0\Practical 2 - CustomerAccount.AssemblyInfoInputs.cache
+C:\Users\suman\Desktop\internship\CSHARP\Practical 2 - CustomerAccount\Practical 2 - CustomerAccount\obj\Debug\net6.0\Practical 2 - CustomerAccount.AssemblyInfo.cs
+C:\Users\suman\Desktop\internship\CSHARP\Practical 2 - CustomerAccount\Practical 2 - CustomerAccount\obj\Debug\net6.0\Practical 2 - CustomerAccount.csproj.CoreCompileInputs.cache
+C:\Users\suman\Desktop\internship\CSHARP\Practical 2 - CustomerAccount\Practical 2 - CustomerAccount\obj\Debug\net6.0\Practical 2 - CustomerAccount.dll
+C:\Users\suman\Desktop\internship\CSHARP\Practical 2 - CustomerAccount\Practical 2 - CustomerAccount\obj\Debug\net6.0\refint\Practical 2 - CustomerAccount.dll
+C:\Users\suman\Desktop\internship\CSHARP\Practical 2 - CustomerAccount\Practical 2 - CustomerAccount\obj\Debug\net6.0\Practical 2 - CustomerAccount.pdb
+C:\Users\suman\Desktop\internship\CSHARP\Practical 2 - CustomerAccount\Practical 2 - CustomerAccount\obj\Debug\net6.0\Practical 2 - CustomerAccount.genruntimeconfig.cache
+C:\Users\suman\Desktop\internship\CSHARP\Practical 2 - CustomerAccount\Practical 2 - CustomerAccount\obj\Debug\net6.0\ref\Practical 2 - CustomerAccount.dll
